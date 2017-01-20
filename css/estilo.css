@@ -1,0 +1,61 @@
+body {
+       
+  }
+
+#section1{
+	padding-top:50px;
+	height:1000px;
+	background-image: url("https://i.ytimg.com/vi/8fEwT19M_bI/maxresdefault.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+#section2{
+	padding-top:50px;
+	height:500px;
+	background-image: url("http://wallpapers.org.es/wp-content/uploads/2012/10/playa_del_caribe.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#section3{
+	padding-top:50px;
+	height:1000px;
+	background-image: url("http://imagenes.4ever.eu/data/download/abstractos/fondo-blanco-204663.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.izquierda{
+	width: 40%;
+	margin-left: 10%;
+	margin-top: 10%;
+	height: auto;
+}
+
+.derecha{
+	width: 40%;
+	float: right;
+	margin-right: 10%;
+	margin-top: 10%;
+	height: auto;
+	
+}
+
+#destinos{
+	color: white;
+	border-radius: 5px;
+	text-shadow: 1px 1px black;
+}
+
+#turista{
+	float: right;
+	margin-right: 5%;
+}
+
+#galeria{
+	margin-left: 25%;
+}
